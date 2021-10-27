@@ -50,7 +50,13 @@ While a one-time pad offers perfect secrecy, you still have to be careful if you
 # Using the Program
 The Program is very easy to use; I write the options as a list that you can understand each one of them.
 
-![ScreenShoot](/Data/OTP.jpg)
+<details>
+<summary>ScreenShoot Preview</summary>
+  <body>
+    <img src="/Data/OTP.jpg">
+  </body>
+</details>
+
 > The default password = '123456' (You can change it from the source code)
 
 
