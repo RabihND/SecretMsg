@@ -1,5 +1,7 @@
 # Introduction
 
+  <p align="center"><img src="./Data/original.gif" width="110"></p>
+
 <p align="center">
     <a href="https://github.com/RabihND/SecretMsg/graphs/contributors" alt="Contributers">
         <img src="https://img.shields.io/github/contributors/RabihND/AP2021-2022-Final?color=6fd671&logo=WhiteSource&style=for-the-badge" /></a>
