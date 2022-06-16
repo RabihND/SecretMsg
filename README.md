@@ -1,5 +1,17 @@
 # Introduction
 
+<div align="center">
+
+  <h3 align="center"> Secret Message 📟 </h3>
+  <p align="center">
+   A "SecretMsg" machine designed with Python
+    <br />
+    <a href="https://github.com/RabihND/SecretMsg"><strong>Explore the documents »</strong></a>
+    <br />
+    <br />
+  </p>
+</div>
+
 <p align="center"><img src="./Data/original.gif" width="110"></p>
 
 <p align="center">
