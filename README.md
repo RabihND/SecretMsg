@@ -18,7 +18,7 @@
 
 ## What you will make
 
-In this resource you will learn how to create and use an encryption technique known as the one-time pad. This method of encryption will allow you to send secret messages to your friends and, as long as you’re careful, the messages will be **unbreakable**.
+In this resource you will learn how to create and use an encryption technique known as the one-time pad (**OTP**). This method of encryption will allow you to send secret messages to your friends and, as long as you’re careful, the messages will be **unbreakable**.
 
 ## What you will learn
 
