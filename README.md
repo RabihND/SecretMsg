@@ -35,7 +35,7 @@ By writing the secret agent chat program, you will learn:
 # Secret agent chat
 ![Image of OTP](https://ece.uwaterloo.ca/~ece150/Projects/C.1/img/otp.1.png)
 
-__Cryptography__ may be a way of disguising the contents of your message, to form it harder for your enemies to read. one amongst the primary sorts of cryptography was utilized by the Roman Emperor general and is now called the Caesar Cipher.
+__Cryptography__ may be a way of disguising the contents of your message, to form it harder for your enemies to read. one amongst the primary sorts of cryptography was utilized by the Roman Emperor general and is now called the **Caesar Cipher**.
 
 During World War II the German military thought they'd developed an ideal method of encrypting messages, using something called an Enigma machine.
 
