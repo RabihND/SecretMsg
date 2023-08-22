@@ -10,7 +10,8 @@
     <a href=" https://github.com/RabihND/SecretMsg/stargazers">
         <img src="https://img.shields.io/github/stars/RabihND/SecretMsg?color=8e6be8&logo=Ethereum&logoColor=8e6be8&style=for-the-badge" alt="Stars" /></a>
     <a alt="Visitors">
-        <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RabihND/SecretMsg?color=14adfa&logo=Android&style=for-the-badge" /></a>
+         <a alt="Visitors">
+        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRabihND%2FSecretMsg&label=Visitors&countColor=%23263759&style=flat-square labelStyle=upper"/></a>
     <a href="https://github.com/RabihND/SecretMsg/master/LICENSE.txt">
         <img src="https://img.shields.io/github/license/RabihND/SecretMsg?color=%2363afdb&logo=letsencrypt&style=for-the-badge" alt="License"></a>
 </p>
@@ -18,7 +19,7 @@
 
 ## What you will make
 
-In this resource you will learn how to create and use an encryption technique known as the one-time pad (**OTP**). This method of encryption will allow you to send secret messages to your friends and, as long as you’re careful, the messages will be **unbreakable**.
+In this resource, you will learn how to create and use an encryption technique known as the one-time pad (**OTP**). This method of encryption will allow you to send secret messages to your friends and, as long as you’re careful, the messages will be **unbreakable**.
 
 ## What you will learn
 
