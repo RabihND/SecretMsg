@@ -9,11 +9,10 @@
         <img src="https://img.shields.io/github/forks/RabihND/SecretMsg?color=cccccc&logo=Node-RED&style=for-the-badge" /></a>
     <a href=" https://github.com/RabihND/SecretMsg/stargazers">
         <img src="https://img.shields.io/github/stars/RabihND/SecretMsg?color=8e6be8&logo=Ethereum&logoColor=8e6be8&style=for-the-badge" alt="Stars" /></a>
-    <a alt="Visitors">
-         <a alt="Visitors">
-        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRabihND%2FSecretMsg&label=Visitors&countColor=%23263759&style=flat-square labelStyle=upper"/></a>
     <a href="https://github.com/RabihND/SecretMsg/master/LICENSE.txt">
         <img src="https://img.shields.io/github/license/RabihND/SecretMsg?color=%2363afdb&logo=letsencrypt&style=for-the-badge" alt="License"></a>
+    <a alt="Visitors">
+        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRabihND%2FSecretMsg&label=Visitors&countColor=%23263759&style=flat-square labelStyle=upper"/></a>
 </p>
 
 
